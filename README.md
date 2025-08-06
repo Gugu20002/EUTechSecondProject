@@ -53,13 +53,13 @@ file_backup_logger/
 
 Below are the screenshots of the process:
 ![photo1](photo1.jpg)
-![photo2](file_backup_logger/photo2.jpg)
-![photo3](file_backup_logger/photo3.jpg)
-![photo4](file_backup_logger/photo4.jpg)
-![photo5](file_backup_logger/photo5.jpg)
-![photo6](file_backup_logger/photo6.jpg)
-![photo7](file_backup_logger/photo7.jpg)
-![photo8](file_backup_logger/photo8.jpg)
+![photo2](photo2.jpg)
+![photo3](photo3.jpg)
+![photo4](photo4.jpg)
+![photo5](photo5.jpg)
+![photo6](photo6.jpg)
+![photo7](photo7.jpg)
+![photo8](photo8.jpg)
 
 
 
