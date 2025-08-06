@@ -40,7 +40,7 @@ file_backup_logger/
 
 
 Below are the screenshots of the process:
-[photo1.jpg]
+![photo1](file_backup_logger/photo1.jpg)
 
 
 
